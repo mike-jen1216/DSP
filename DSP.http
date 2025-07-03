@@ -1,6 +1,0 @@
-@DSP_HostAddress = http://localhost:5122
-
-GET {{DSP_HostAddress}}/weatherforecast/
-Accept: application/json
-
-###
