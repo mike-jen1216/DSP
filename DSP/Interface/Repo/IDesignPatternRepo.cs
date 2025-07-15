@@ -8,6 +8,6 @@ namespace DSP.Interface.Repo
 {
     public interface IDesignPatternRepo
     {
-        DesignPatternEntity GetEntity(int id);
+        DesignPatternEntity GetEntity(int id);//
     }
 }
